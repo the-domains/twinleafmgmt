@@ -2,6 +2,7 @@ name: twinleafMGMT
 favicon: null
 layout_spectrum: 0.90423
 typography_spectrum: 0.75244
+title: twinleafMGMT
 cta:
   domain: null
   bucket: null
